@@ -13,6 +13,8 @@ The  application allows users to:
   * View image, description and the time the articles was created.
   * Click and read full article.
 
+## Live Link: https://mikesnewsapp.herokuapp.com/
+
 ## Setup Instruction:
 *click on the link to the deployed page:
 
