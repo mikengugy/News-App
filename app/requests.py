@@ -21,7 +21,7 @@ def get_news():
     '''
     get_news_url = base_url.format(api_key)
 
-    get_news_response = requests.get(get_news_url).json()
+    get_news_response = request.get(get_news_url).json()
 
     news_sources = None 
 
